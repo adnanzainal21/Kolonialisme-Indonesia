@@ -5,3 +5,7 @@ Kolonialisme dan imperalisme di Indonesia Oleh Ibu Nani Wnarni, S.s SMK Pancasil
 Di Buat Oleh XI PPLG 1 | SMK Pancasila 8 Slogohimo 
  <br>
  Matri Sejarah Kolonialisme dan imperalisme 
+ <br>
+ Open To Demo
+ <br>
+ https://sejarah-xipplg1.netlify.app/
